@@ -5,13 +5,13 @@
         class="bg-white px-6 py-8 mb-4 shadow-md rounded-md border m-4 md:m-0"
       >
         <h2 class="text-2xl text-center font-semibold mb-6">About</h2>
-        Welcome to <b>Talentify</b> – your partner in shaping careers and
+        Welcome to <b>Vue Talentify</b> – your partner in shaping careers and
         finding the perfect fit. We believe that job hunting and hiring
         shouldn’t be stressful or complicated. That’s why we created a platform
         designed to connect talented professionals with employers who value
         their skills, passion, and potential. Whether you're seeking your dream
-        job or the ideal candidate, <b>Talentify</b> simplifies the process with
-        innovative tools and personalized solutions.
+        job or the ideal candidate, <b>Vue Talentify</b> simplifies the process
+        with innovative tools and personalized solutions.
         <h2 class="text-l font-semibold mt-6 mb-2">Our Mission</h2>
         Our mission is to empower individuals and organizations by making the
         job search and recruitment process efficient, transparent, and
@@ -53,7 +53,8 @@
         <h2 class="text-l font-semibold mt-6 mb-2">Join Us</h2>
         Let’s work together to build fulfilling careers and thriving teams.
         Whether you're ready to take the next step in your journey or find your
-        company’s next star player, <b>Talentify</b> is here to make it happen.
+        company’s next star player, <b>Vue Talentify</b> is here to make it
+        happen.
       </div>
     </div>
   </section>
